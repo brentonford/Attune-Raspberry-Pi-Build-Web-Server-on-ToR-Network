@@ -1,0 +1,11 @@
+{
+    "archiveKey": "torconfigurationfiletorrc", 
+    "deployPath": "/etc/tor/", 
+    "enabled": true, 
+    "key": "ictdeploytorconfigurationfile", 
+    "name": "ICT Deploy ToR Configuration File", 
+    "osCredKey": "linuxuser", 
+    "serverKey": "linuxnode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 
+    "unpack": true
+}

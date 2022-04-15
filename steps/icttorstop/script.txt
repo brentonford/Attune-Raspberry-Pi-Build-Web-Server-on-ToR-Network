@@ -1,0 +1,3 @@
+service tor stop
+
+service tor status

@@ -1,0 +1,6 @@
+{
+    "key": "attunenodecredlinux", 
+    "name": "Attune Node Cred - Linux", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.LinOsCred"
+}

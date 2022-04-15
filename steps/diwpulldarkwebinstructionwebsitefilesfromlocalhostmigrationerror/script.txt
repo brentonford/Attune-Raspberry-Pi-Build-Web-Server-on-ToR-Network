@@ -1,0 +1,11 @@
+echo "Pull steps have been removed in v5 of Attune" >&2; false
+# Attune V5 no longer supports the Pull step as
+# this would lead to jobs that pull files into version controlled
+# projects. Pull steps will be reimplement in a later release to
+# pull files into new Input Value files that can be mapped in the
+# plans.
+
+# Target Node = Attune Node - Linux
+# OS Credential = Attune Node Cred - Linux
+# Archive = Build Dark Web Server website Files
+# Deploy Path = /Users/bford/raspberry-pi/dark-web-website-attune-blueprint

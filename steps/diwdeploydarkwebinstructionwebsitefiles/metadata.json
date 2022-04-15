@@ -1,0 +1,11 @@
+{
+    "archiveKey": "builddarkwebserverwebsitefiles", 
+    "deployPath": "/var/www/html/", 
+    "enabled": true, 
+    "key": "diwdeploydarkwebinstructionwebsitefiles", 
+    "name": "DIW Deploy Dark Web Instruction Website Files", 
+    "osCredKey": "linuxnodeuser", 
+    "serverKey": "linuxnode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 
+    "unpack": true
+}

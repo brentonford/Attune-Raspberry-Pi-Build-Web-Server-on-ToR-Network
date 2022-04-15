@@ -1,0 +1,11 @@
+{
+    "enabled": true, 
+    "key": "isnodeup", 
+    "minDowntime": 2, 
+    "name": "Is Node Up", 
+    "postWait": 0, 
+    "preWait": 0, 
+    "serverKey": "linuxnode", 
+    "tcpPort": 22, 
+    "type": "com.servertribe.attune.tuples.StepTcpPingTuple"
+}

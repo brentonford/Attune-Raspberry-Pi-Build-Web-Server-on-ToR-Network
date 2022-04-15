@@ -1,0 +1,5 @@
+{
+    "key": "torconfigurationfiletorrc", 
+    "name": "ToR Configuration File - torrc", 
+    "type": "com.servertribe.attune.tuples.FileArchiveVersionedTuple"
+}

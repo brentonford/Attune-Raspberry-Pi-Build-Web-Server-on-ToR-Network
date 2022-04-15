@@ -1,0 +1,10 @@
+{
+    "enabled": true, 
+    "interpreter": 1, 
+    "key": "diwpulldarkwebinstructionwebsitefilesfromlocalhostmigrationerror", 
+    "name": "DIW Pull Dark Web Instruction Website Files from localhost MIGRATION ERROR", 
+    "osCredKey": "attunenodecredlinux", 
+    "serverKey": "attunenodelinux", 
+    "successExitCode": 0, 
+    "type": "com.servertribe.attune.tuples.StepSshTuple"
+}

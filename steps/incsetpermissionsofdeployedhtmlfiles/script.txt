@@ -1,0 +1,3 @@
+sudo chmod -v 755 /var/www/*
+
+sudo chmod -v 755 /var/www/html/*

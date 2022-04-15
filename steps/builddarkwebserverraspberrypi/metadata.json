@@ -1,0 +1,18 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "isBlueprint": true, 
+    "key": "builddarkwebserverraspberrypi", 
+    "links": [
+        {
+            "order": 20, 
+            "stepKey": "installandconfiguretor"
+        }, 
+        {
+            "order": 60, 
+            "stepKey": "installandconfigurenginx"
+        }
+    ], 
+    "name": "Build Dark Web Server - Raspberry Pi", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

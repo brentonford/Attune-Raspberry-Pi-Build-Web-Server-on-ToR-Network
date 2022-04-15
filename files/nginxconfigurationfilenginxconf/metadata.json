@@ -1,0 +1,5 @@
+{
+    "key": "nginxconfigurationfilenginxconf", 
+    "name": "NGINX Configuration File - nginx.conf", 
+    "type": "com.servertribe.attune.tuples.FileArchiveVersionedTuple"
+}

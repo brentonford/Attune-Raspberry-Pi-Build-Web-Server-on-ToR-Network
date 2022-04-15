@@ -1,0 +1,11 @@
+{
+    "archiveKey": "nginxconfigurationfilenginxconf", 
+    "deployPath": "/etc/nginx/", 
+    "enabled": true, 
+    "key": "icndeploynginxconfigurationfile", 
+    "name": "ICN Deploy NGINX Configuration File", 
+    "osCredKey": "linuxuser", 
+    "serverKey": "linuxnode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 
+    "unpack": true
+}
