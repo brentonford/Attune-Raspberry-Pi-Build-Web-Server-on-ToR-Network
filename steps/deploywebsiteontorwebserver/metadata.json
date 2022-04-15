@@ -2,7 +2,7 @@
     "concurrency": 1, 
     "enabled": true, 
     "isBlueprint": false, 
-    "key": "deployinstructionwebsite", 
+    "key": "deploywebsiteontorwebserver", 
     "links": [
         {
             "order": 0, 
@@ -25,6 +25,6 @@
             "stepKey": "icnnginxrestart"
         }
     ], 
-    "name": "Deploy Instruction Website", 
+    "name": "Deploy Website on ToR Web Server", 
     "type": "com.servertribe.attune.tuples.StepGroupTuple"
 }

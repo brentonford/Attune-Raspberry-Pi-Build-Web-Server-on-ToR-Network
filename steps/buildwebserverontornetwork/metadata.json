@@ -2,7 +2,7 @@
     "concurrency": 1, 
     "enabled": true, 
     "isBlueprint": true, 
-    "key": "builddarkwebserverraspberrypi", 
+    "key": "buildwebserverontornetwork", 
     "links": [
         {
             "order": 20, 
@@ -11,8 +11,12 @@
         {
             "order": 60, 
             "stepKey": "installandconfigurenginx"
+        }, 
+        {
+            "order": 160, 
+            "stepKey": "deploywebsiteontorwebserver"
         }
     ], 
-    "name": "Build Dark Web Server - Raspberry Pi", 
+    "name": "Build Web Server on ToR Network", 
     "type": "com.servertribe.attune.tuples.StepGroupTuple"
 }
